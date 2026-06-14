@@ -3,8 +3,6 @@
 **Author:** Catherine Kim Lee ([catklee@umich.edu](mailto:catklee@umich.edu))  
 **Built with:** C++ and native SpreadsheetML (`.xls`)
 
-Converts a printed shopping cart PDF into an Excel file with **상품정보**, **옵션**, **수량**, and **가격**.
-
 ## Why?
 
 In case you didn't know, I'm actually a small business owner — check out [TheWelcomeWeek.com](https://thewelcomeweek.com).
